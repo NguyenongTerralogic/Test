@@ -5,13 +5,9 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <h1>HELLOOOO</h1>
-      </header>
+      <Navbar />
+      <p>hrfakjhfad</p>
+      <h1>dfhalsdjfal</h1>
     </div>
   );
 }
